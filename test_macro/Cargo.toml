@@ -1,0 +1,6 @@
+[package]
+name = "test_macro"
+version = "0.1.0"
+authors = ["Robert Habermeier <rphmeier@gmail.com>"]
+
+[dependencies]
